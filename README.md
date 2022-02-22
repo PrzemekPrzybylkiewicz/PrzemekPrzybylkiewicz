@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PrzemekPrzybylkiewicz
-- 👀 I’m interested in ...
+- 👀 I’m interested in software testing 
 - 🌱 I’m currently learning python and selenium for software testing 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me przemek.przybylkiewicz@gmail.com
 
 <!---
